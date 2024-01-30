@@ -1,6 +1,6 @@
 # Welcome to OpenUrantia on GitHub!
 
-OpenUrantia is dedicated to making it easier to build with the Urantia Book content. Here, you'll find our open-source projects and repositories that contribute to [a brief explanation of what your repositories aim to achieve].
+OpenUrantia is dedicated to making it easier to build with the Urantia Book content. Our mission is to provide open-source tools and resources that enable developers, researchers, and enthusiasts to explore and integrate the teachings of the Urantia Papers into diverse applications and platforms.
 
 ## Our Repositories
 
@@ -15,7 +15,7 @@ The "Urantia Papers JSON" repository is aimed at making the profound content of 
 
 ## Contributing
 
-We welcome contributions to our repositories! Whether it's adding new features, improving documentation, or reporting issues, your input helps us grow and improve.
+We welcome contributions to our repositories! Whether it's adding new features, improving documentation, or reporting issues, your input helps us grow and improve. Please check our [Contribution Guidelines](https://github.com/Open-Urantia/.github/CONTRIBUTING.md) for more details on how to get involved.
 
 ## Stay Connected
 
